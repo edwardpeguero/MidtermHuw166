@@ -15,16 +15,18 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+h2 {
+  color: lightblue;
+  text-align: center;
+
+
 </style>
 </head>
 <body>
 
 <h1>Scott Pilgrim vs the world</h1>
 <p>This is a paragraph.</p>
-
-h2 {
-  color: lightblue;
-  text-align: center;
 
 <h2> Main Character </h2>
 
