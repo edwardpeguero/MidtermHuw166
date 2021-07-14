@@ -12,13 +12,26 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: Sans-serif;
   font-size: 20px;
 }
 
 h2 {
   color: blue;
   text-align: center;
+
+
+p {
+  font-family: Serif;
+  font-size: 20px;
+
+h3 {
+  color: Yellow;
+  text-align: center;
+
+p {
+  font-family: Sans-Serif;
+  font-size: 20px;
 
 
 </style>
