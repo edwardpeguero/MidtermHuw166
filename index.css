@@ -22,5 +22,11 @@ p {
 <h1>Scott Pilgrim vs the world</h1>
 <p>This is a paragraph.</p>
 
+h2 {
+  color: lightblue;
+  text-align: center;
+
+<h2> Main Character </h2>
+
 </body>
 </html>
