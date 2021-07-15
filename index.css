@@ -11,7 +11,7 @@ h1 {
   text-align: center;
 }
 
-p {
+.p1 {
   font-family: Sans-serif;
   font-size: 20px;
 }
@@ -22,7 +22,7 @@ h2 {
 }
 
 
-p {
+.p2 {
   font-family: Serif;
   font-size: 20px;
 
@@ -43,4 +43,9 @@ p {
 <h3> Date movie released </h3>
 <p> The film premiered after a panel discussion at the San Diego Comic-Con International on July 22, 2010, and was widely released in North America on August 13, 2010. Scott Pilgrim vs. the World was re-released for its 10th anniversary in the United Kingdom on August 21, 2020, and the United States on April 30, 2021. </p>
 </body>
+
+<h1>CSS font-family</h1>
+<p class="p1">This is a paragraph, shown in the Sans-serif.</p>
+<p class="p2">This is a paragraph, shown in the Serif.</p>
+
 </html>
